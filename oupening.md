@@ -2,13 +2,13 @@
 <head>
 <style>
 body {
-    background-color: #c0c0c0;
+    background-color: #ffffff;
 }
 h1 {
-    background-color: c0c0c0;
+    background-color: ffffff;
 }
 p {
-    background-color: c0c0c0;
+    background-color: ffffff;
 }
 </style>
 <title>blen4kTestsait2</title>
