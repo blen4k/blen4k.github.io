@@ -19,6 +19,6 @@ p {
          <img src="gotovim-vkusnye-chebureki-v-domashnih-usloviyah_800.jpg" alt="" />
 <a href="https://m.vk.com/id421376303">
     <img src="vk.jpg" 
-        height="50%" width="50%" alt="" />
+        height="10%" width="10%" alt="" />
 </a>
 
