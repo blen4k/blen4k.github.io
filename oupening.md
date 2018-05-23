@@ -20,6 +20,6 @@ p {
 <a href="https://m.vk.com/id421376303">
     <img src="vk.jpg"/>
 </a>
-<img src="http://vk.jpg" 
+<img src="vk.jpg" 
         height="50%" width="50%" alt="" />
     
