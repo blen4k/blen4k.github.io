@@ -26,3 +26,6 @@
 <p>Информация предоставлена какимто там точка ком <br>
 да кому это интересно </p>
 <p><h1><strong>Спасибо за  просмотр
+
+<p><h1><strong>Спасибо за  просмотр
+<a href="https://github.com/blen4k/blen4k.github.io/blob/master/oupening.md"> Ссылочка на файл </a>
