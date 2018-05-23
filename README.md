@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>blin4kTiposait</title>
+<title>blen4kTestSait</title>
 </head>
 <body>
 <p><h1>Рецепт чебурека
@@ -26,6 +26,5 @@
 <p>Информация предоставлена какимто там точка ком <br>
 да кому это интересно </p>
 <p><h1><strong>Спасибо за  просмотр
-
-<p><h1><strong>Спасибо за  просмотр
-<a href="https://blen4k.github.io/oupening"> Ссылочка на файл </a>
+<h4>
+<a href="https://blen4k.github.io/oupening">Страница 2</a>
