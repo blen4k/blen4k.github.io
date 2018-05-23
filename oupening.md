@@ -18,5 +18,6 @@ p {
         <a href="https://blen4k.github.io">Страница 1</a>
          <img src="gotovim-vkusnye-chebureki-v-domashnih-usloviyah_800.jpg" alt="" />
 <a href="https://m.vk.com/id421376303">
-    <img src="vk.jpg" alt="" />
+    <img src="vk.jpg" 
+        height="30px" width="30px" alt="" />
 </a>
