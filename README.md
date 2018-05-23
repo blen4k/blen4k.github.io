@@ -28,4 +28,4 @@
 <p><h1><strong>Спасибо за  просмотр
 
 <p><h1><strong>Спасибо за  просмотр
-<a href="https://github.com/blen4k/blen4k.github.io/blob/master/oupening.md"> Ссылочка на файл </a>
+<a href="https://blen4k.github.io/oupening"> Ссылочка на файл </a>
