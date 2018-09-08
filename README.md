@@ -7,5 +7,3 @@ initial-scale=1. 0">
 </head>
 <body>
 <h1>ГО В ТЕРКУ!!!!!!<h1>
-</body> 
-</html>
