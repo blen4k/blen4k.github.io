@@ -1,4 +1,15 @@
 <html lang="en">
+  <style>
+body {
+    background-color: #ffffff;
+}
+h1 {
+    background-color: ffffff;
+}
+p {
+    background-color: ffffff;
+}
+</style>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width,
