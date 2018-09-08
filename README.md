@@ -1,30 +1,15 @@
-<html>
+<! DOCTYPE html>
+<html lang="en">
 <head>
-<title>blen4kTestSait</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,
+initial-scale=1. 0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<title>ГО в терку</title>
+<script src="./js/script.js"></script>
+<link rel="stylesheet" href="./css/stili.css" />
 </head>
 <body>
-<p><h1>Рецепт чебурека
-<p><h4><del><font color="ff0000;">Берём кошку и ...</font></del><h4>
-<p><h4><b><font color="000080;">Ингредиенты для сырно-картофельных чебуреков:<br>картофель – 0,5 кг;<br>
-сыр твердых сортов – 50-70 г;<br>
-подсолнечное масло – 40 г;<br>
-зелень петрушки – 1 пучок;<br>
-Соль и перец по вкусу.</font>
-<p><font color="red;">Картошку отварить, как и в предыдущем варианте, а затем размять ее.
-<br>В пюре добавить масло, потертый сыр и рубленую зелень.
-<br> Все ингредиенты следует тщательно смешать, пока картошка горячая. Добавить в смесь специи.
-<br>Чебуреки будут вкусные с любым тестом. Приятного аппетита!</font>
-<p></p>
-<p></p>
-<p></p>
-<p><font color="red;">ням ням</font>
-</p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p>Информация предоставлена какимто там точка ком <br>
-да кому это интересно </p>
-<p><h1><strong>Спасибо за  просмотр
-<h4>
-<a href="https://blen4k.github.io/oupening">Страница 2</a>
+<h1>ГО В ТЕРКУ!!!!!!<h1>
+</body> 
+</html>
