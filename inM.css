@@ -35,8 +35,7 @@ text-decoration:none;
 #sidebar ul li a : hover {
 	color:#666;
 }
-#sidebar . toggle-btn
-{
+#sidebar .toggle-btn{
 position: absolute; 
 left: 270px; 
 top: 20px; 
